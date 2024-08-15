@@ -36,23 +36,21 @@ git clone https://github.com/your-username/patient-health-tracker.git
   ### Database Setup:
 - Import the provided SQL file into your MySQL database.
 - Update the database connection details in the config.php file.
-- __Run the Application:__
+- Run the Application:
 - Start your local server (e.g., XAMPP, WAMP).
 - Access the application via http://localhost/patient-health-tracker.
-- Usage Instructions:
-
+  ### Usage Instructions:
 - __Login:__
 - Access the login page at http://localhost/patient-health-tracker/login.php.
 - Enter your credentials to gain access to the dashboard.
 - __Navigating the Dashboard:__ From the dashboard, easily navigate to add new doctors, add new patients, or view existing records.
 - __Adding a Doctor/Patient:__ Use the respective forms to input new doctor or patient information into the system.
-- __Screenshots:__
+  ### Screenshots:
   ![login dashboard](https://github.com/user-attachments/assets/4428f87f-9d8c-46fb-99e7-2460d76f769c)
  
  ![AddForm](https://github.com/user-attachments/assets/4a3b6f14-72ae-42bc-9508-ee2db2840b4c)
  
  ![List](https://github.com/user-attachments/assets/95091f92-7421-4fb1-8505-39be924bc0d6)
-
 
 ### Conclusion:
 The Patient Health Tracker showcases the potential of web technologies to streamline healthcare administration. With its secure, user-friendly interface and robust functionality, it serves as an essential tool for healthcare professionals aiming to manage patient and doctor data more effectively.
