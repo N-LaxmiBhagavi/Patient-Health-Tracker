@@ -17,7 +17,7 @@ The Patient Health Tracker is organized into several key modules, each serving a
   - __Add Doctor Form:__ Interface for adding new doctors to the system.
 - __Patient Management:__
   - __Patient List Page:__ Provides a detailed list of patients, including their medical information and assigned doctors.
-    - __Add Patient Form:__ Interface for adding new patients, complete with relevant medical and personal details.
+  - __Add Patient Form:__ Interface for adding new patients, complete with relevant medical and personal details.
 - __Dashboard:__ A centralized hub for navigating between different functionalities, such as viewing lists or adding new records.
 - __Client-Side Validation:__ Scripts to validate user inputs in real-time before form submission, enhancing data integrity and user experience.
 
