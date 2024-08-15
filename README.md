@@ -11,18 +11,16 @@ The Patient Health Tracker is a comprehensive web-based application designed to 
 ### Application Structure:
 The Patient Health Tracker is organized into several key modules, each serving a specific function:
 
-- __Login Module:__
-
-Secure entry point for the application, ensuring only verified users can access the system.
-- __Doctor Management:__
-           - __Doctor List Page:__ Displays a comprehensive list of doctors along with their specializations.
-           - __Add Doctor Form:__ Interface for adding new doctors to the system.
-- __Patient Management:__
-         - __Patient List Page:__ Provides a detailed list of patients, including their medical information and assigned doctors.
-          - __Add Patient Form:__ Interface for adding new patients, complete with relevant medical and personal details.
-- __Dashboard:__
+1 __Login Module:__ Secure entry point for the application, ensuring only verified users can access the system.
+2 __Doctor Management:__
+           2.1 __Doctor List Page:__ Displays a comprehensive list of doctors along with their specializations.
+           2.2 __Add Doctor Form:__ Interface for adding new doctors to the system.
+3 __Patient Management:__
+         3.1 __Patient List Page:__ Provides a detailed list of patients, including their medical information and assigned doctors.
+          3.2 __Add Patient Form:__ Interface for adding new patients, complete with relevant medical and personal details.
+4 __Dashboard:__
 A centralized hub for navigating between different functionalities, such as viewing lists or adding new records.
-- __Client-Side Validation:__
+5  __Client-Side Validation:__
 
 Scripts to validate user inputs in real-time before form submission, enhancing data integrity and user experience.
 
